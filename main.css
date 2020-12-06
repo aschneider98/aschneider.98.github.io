@@ -1,0 +1,79 @@
+body {
+    background-image: url("Background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    margin:0;
+}
+
+footer {
+    background-color: #ffffff99;
+    border-radius: 10px;
+    font-size: 17px;
+    display: block;
+    position: fixed;
+    bottom: 20px;
+    left: 10px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+}
+
+img.Headshot {
+    position: relative;
+    border-radius: 20px;
+    margin: auto;
+    margin-bottom: 20px;
+    display: block;
+}
+
+p {
+    background-color: #ffffff99;
+    text-align: center;
+    border-radius: 20px;
+    display: block;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    position: relative;
+    margin: 20px;
+}
+
+h1 {
+    display: block;
+    position: relative;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+td.bubble {
+    background-color: #ffffff99;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    position: relative;
+    margin: auto;
+}
+
+p.p2 {
+    background-color: #ffffff99;
+    text-align: center;
+    border-radius: 20px;
+    display: block;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    position: relative;
+    margin: auto;
+    width: 15vw;
+}
+
+table {
+    display: grid;
+    justify-content: center;
+    border-spacing: 20px;
+}

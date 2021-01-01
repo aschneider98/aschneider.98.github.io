@@ -1,2 +1,2 @@
-# aschneider.98.github.io
+# aschneider98.github.io
 This is a personal portfolio site for Alex Schneider
